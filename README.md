@@ -88,7 +88,8 @@ me.say_hi()
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AinaRazafinjato&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AinaRazafinjato&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AinaRazafinjato&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AinaRazafinjato&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
